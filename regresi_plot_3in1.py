@@ -2,7 +2,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# === BACA DATA ===
 df = pd.read_csv("data_energi.csv")
 
 # === KOEFISIEN REGRESI DARI PROGRAM C ===
