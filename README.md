@@ -20,6 +20,18 @@ The computation is fully implemented in C, while result visualization and analys
 
 
 ---
+## 👩‍💻 About the Author
+<div align="center">
+
+**Grace Yunike Margaretha Sitorus**  
+NPM: 2306267031 <P>
+Undergraduate Student, Computer Engineering  
+Universitas Indonesia  
+
+📧 grace.yunike@ui.ac.id  
+🔗 GitHub: [github.com/graceyunike](https://github.com/graceyunike)
+
+---
 
 ## 📊 Theory: Multiple Regression and Least Squares
 
